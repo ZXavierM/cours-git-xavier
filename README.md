@@ -6,3 +6,5 @@ Les réglages c'est par <a href="https://github.com/pixelman71100/cours-git/sett
 sa mère j'ai réussi bonjour la vie
 
 yo la vie j'ai réussi aussi haha
+
+k'est-ce tu fous la batard dégage 
